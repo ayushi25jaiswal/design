@@ -306,7 +306,7 @@ input {
   top: 0;
   left: 0;
   width: 100%;
-  height: auto;
+  height: 100vh;
   object-fit: cover;
   object-position: 83%;
 }
@@ -1055,6 +1055,6 @@ input {
   }
   .home__container,
   .home__img {
-    height: auto;
+    height: 640px;
   }
 }
