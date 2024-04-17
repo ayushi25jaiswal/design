@@ -322,7 +322,7 @@ input {
 .home__data-title,
 .home__social-link,
 .home__info {
-  color: var(--white-color);
+  color: #ff9333;
 }
 
 .home__data-subtitle {
